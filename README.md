@@ -46,8 +46,9 @@ pnpm create vite@latest chat_app --template react-swc-ts
 | `@mui/material`<br>`@mui/icons-material`<br>`@emotion/react`<br>`@emotion/styled` | Googleのデザインシステムに基づいた**UIコンポーネントやアイコン**を提供するライブラリセット |
 
 
-# complete
+# completeフォルダ
 * 各プロジェクトの完成版になります。
+
 
 
 
